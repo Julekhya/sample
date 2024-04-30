@@ -13,10 +13,15 @@ Calculation: The program multiplies the input value by the appropriate conversio
 Output: Finally, the program displays the converted value to the user.
 
 Optional Features: Advanced unit converter projects might include additional features such as support for a wide range of units, the ability to add custom units, handling of different data types (e.g., length, weight, temperature), and support for complex conversions involving multiple steps.
+                               Code Explanation
+First we need to creat a class with the quantity of which you need to convert units.
 
-*First we need to creat a class with the quantity of which you need to convert units.
-*We need to call a function to feed intial ,final values of amount of quantity we give as a input using self.input.
-*Now create another function to convert temperature to different units like kelvin,celsius,fahrenheit.
-*Create another class with volume.
-*We will have to the same process as that of used in the case of temperature.
-*Finally we need to use if else conditions to analyse user inputs and call the functiooon according to user input. 
+We need to call a function to feed intial ,final values of amount of quantity we give as a input using self.input.
+
+Now create another function to convert temperature to different units like kelvin,celsius,fahrenheit.
+
+Create another class with volume.
+
+We will have to the same process as that of used in the case of temperature.
+
+Finally we need to use if else conditions to analyse user inputs and call the functiooon according to user input. 
